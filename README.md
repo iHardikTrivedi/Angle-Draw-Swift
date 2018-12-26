@@ -7,9 +7,11 @@ Using this demo; User can draw multiple angle with it's calcualtion on a single 
 
 # Output
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
-
-# Requirements
+# Basic Config
 
 1. Xcode 10.0 or above
 2. Swift 4.0 or above
+3. Development Target 10.0 or above
+4. Device Universal Supported
