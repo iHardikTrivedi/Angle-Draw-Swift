@@ -40,6 +40,6 @@ Demo has 3 different button which are:
 # Helpful!!
 
 Is this demo helpful for your project? OR Reducing tiny bit of work in your project?
-Buy a TEA for me!
+Buy me a Cup of TEA 🔥🔥🔥
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SLQW2U9BXULTC)
