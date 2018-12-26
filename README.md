@@ -36,3 +36,10 @@ Demo has 3 different button which are:
 2. Done -> This button used for finalized angle means all 3 dots are correct place & calucaltion of angle is correct. Now, once you tap this button and again tap on UIView it will consider as another angle.
 
 3. RESET DEMO -> This button helps clear UIView completely for restart the demo.
+
+# Helpful!!
+
+Is this demo helpful for your project? OR Reducing tiny bit of work in your project?
+Buy a TEA for me!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SLQW2U9BXULTC)
