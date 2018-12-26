@@ -31,11 +31,8 @@ Demo has mainly 2 color code: (You can easily choose your color in ViewControlle
 
 Demo has 3 different button which are:
 
-1. Clear
-This button used for clear recently points or line which is drawn on UIView. There are multiple angle drawn functionality. So, when you tap this button it's clear recently added points & lines only.
+1. Clear -> This button used for clear recently points or line which is drawn on UIView. There are multiple angle drawn functionality. So, when you tap this button it's clear recently added points & lines only.
 
-2. Done
-This button used for finalized angle means all 3 dots are correct place & calucaltion of angle is correct. Now, once you tap this button and again tap on UIView it will consider as another angle.
+2. Done -> This button used for finalized angle means all 3 dots are correct place & calucaltion of angle is correct. Now, once you tap this button and again tap on UIView it will consider as another angle.
 
-3. RESET DEMO
-This button helps clear UIView completely for restart the demo.
+3. RESET DEMO -> This button helps clear UIView completely for restart the demo.
