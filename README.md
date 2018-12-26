@@ -7,7 +7,7 @@ Using this demo; User can draw multiple angle with it's calcualtion on a single 
 
 # Output
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Angle Demo](Angle_Draw_GIF.gif)
 
 # Basic Config
 
